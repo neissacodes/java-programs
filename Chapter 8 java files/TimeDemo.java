@@ -9,7 +9,7 @@ public class TimeDemo
 		String enteredTime;
 		String response;
 
-		while (//CHECK ANSWER AFTER CONVERTING TO CAPITAL)
+		while (Character.toUpperCase(anwer) == 'Y')
 		{
 			System.out.print(
 				"Enter a miitary time using the ##:## form   ");
